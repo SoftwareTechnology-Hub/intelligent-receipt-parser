@@ -186,24 +186,6 @@ torchaudio
 
 ---
 
-##  Git Commands Used
-
-```
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SoftwareTechnology-Hub/intelligent-receipt-parser.git
-git push -u origin main
-```
-
----
-
-##  Author
-
-Your Name
-
----
 
 ##  Status
 

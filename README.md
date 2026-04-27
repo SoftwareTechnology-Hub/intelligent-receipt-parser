@@ -184,10 +184,4 @@ torchvision
 torchaudio
 ```
 
----
 
-
-##  Status
-
- Working prototype completed
- Ready for submission
